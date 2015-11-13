@@ -1,0 +1,30 @@
+@CHARSET "ISO-8859-1";
+.panel-body {
+	background:#E8E8E8;
+}
+
+.panel{
+	margin-top:80px;
+	position: relative;
+}
+
+.textaligncenter{
+	text-align: center;
+}
+
+.garamond{
+	font-family: garamond;
+}
+@font-face {
+    font-family: RagingRedLotus;
+    src: url("fonts/RagingRedLotusBB.ttf") format("truetype");
+}
+.customfont { 
+    font-family: RagingRedLotus, Verdana, Tahoma !important;
+}
+.redtext{
+	color: red;
+	text-align: center;
+}
+
+
